@@ -13,6 +13,8 @@ Three main characteristics of rainfall are its amount, frequency and intensity, 
 DEVELOPED BY : SYED JAVEED H
 
 REGISTER NO : 212221220055
+
+
 ```
 import numpy as np 
 import pandas as pd 
